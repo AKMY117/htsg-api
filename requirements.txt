@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+# If your code needs extras, add them here, e.g.:
+# numpy
+# pandas
+# plotly
