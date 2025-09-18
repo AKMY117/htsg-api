@@ -4,3 +4,8 @@ uvicorn
 # numpy
 # pandas
 # plotly
+
+fastapi==0.116.2
+uvicorn==0.35.0
+pydantic==2.11.3
+python-multipart==0.0.9   # only if you plan file uploads later
