@@ -2787,4 +2787,3 @@ if __name__ == "__main__":
                 print(f"Grade: {grade}, Notes: {notes}")
             except Exception as e:
                 print(f"Calculation error: {e}")
-python-3.11.9
